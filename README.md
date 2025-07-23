@@ -1,28 +1,29 @@
-# Manual de buenas prácticas para trabajos universitarios en grupo
+# Manual de Buenas Prácticas para Trabajos Universitarios en Grupo
 
-Este repositorio contiene el manual colaborativo de buenas prácticas para la realización de trabajos universitarios en grupo. Fue desarrollado por MONTIEL, MARÍA; BARROETA, NAKARY; MÉNDEZ, GUSTAVO para la asignatura "Diplomado en Competencias Digitales" de la Universidad Valle del Momboy.
+Este repositorio contiene el **Manual de Buenas Prácticas** diseñado para estudiantes universitarios, con el objetivo de optimizar la colaboración, la organización y la gestión de proyectos en equipo. El manual aborda desde la definición de roles hasta la entrega final, pasando por la gestión del tiempo, el uso de herramientas colaborativas y la importancia del formato y las citaciones.
 
-## 🎯 Objetivo del Proyecto
+## Tabla de Contenido
+1. [Introducción](#introducción)
+2. [Organización del Trabajo](#organización-del-trabajo)
+3. [Gestión de Tiempos](#gestión-de-tiempos)
+4. [Formatos y Citaciones](#formatos-y-citaciones)
+5. [Herramientas Colaborativas](#herramientas-colaborativas)
+6. [Presentación y Entrega Final](#presentación-y-entrega-final)
+7. [Conclusiones](#conclusiones)
+8. [Referencias](#referencias)
 
-Fomentar el uso de Git y GitHub como herramienta de colaboración y control de versiones en la creación de documentos, promoviendo buenas prácticas de trabajo en equipo en el ámbito universitario.
+## Propósito del Manual
+Facilitar la realización de trabajos universitarios en grupo, abordando desafíos comunes y ofreciendo estrategias probadas para optimizar la colaboración y la calidad de los entregables.
 
-## 📖 Descripción del Manual
+## Estructura del Repositorio
+- `/documentos`: Contiene el `Manual-buenas-practicas.docx` y su versión final en PDF.
+- `README.md`: Este archivo, con la descripción del proyecto.
+- `CHANGELOG.md`: Registro de cambios importantes del manual.
 
-Este manual recopila pautas esenciales para la organización, gestión del tiempo, aplicación de formatos (ej. APA), técnicas de citación, y estrategias efectivas para la presentación de trabajos académicos en equipo.
+## Autores
+- MONTIEL, MARÍA C.I. 31.326.597
+- BARROETA, NAKARY C.I. 26.413.440
+- MÉNDEZ, GUSTAVO C.I. 30.860.474
 
-## 📂 Estructura del Repositorio
-
-* `/documentos`: Contiene los archivos principales del manual (e.g., documentos Word, versiones PDF).
-* `/imagenes`: Almacena imágenes o gráficos si se utilizan en el manual.
-* `/referencias`: Incluye cualquier material de referencia adicional o fuentes citadas.
-* `README.md`: Este archivo, que describe el proyecto.
-* `CHANGELOG.md`: (Lo crearemos más adelante) Documentará los cambios y versiones del manual.
-
-## 🤝 Contribución
-
-Invitamos a los miembros del equipo a seguir las buenas prácticas de Git y GitHub:
-* Crear `ramas` para trabajar en sus secciones.
-* Abrir `Pull Requests (PRs)` para integrar sus cambios.
-* Revisar los PRs de los compañeros.
-
-Esperamos que este manual sea una herramienta útil para futuros trabajos colaborativos.
+## URL del Repositorio
+[https://github.com/Nakary10/Manual-Buenas-Practicas-UVM](https://github.com/Nakary10/Manual-Buenas-Practicas-UVM)
